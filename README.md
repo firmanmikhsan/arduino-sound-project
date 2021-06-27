@@ -1,5 +1,4 @@
 # PERAKITAN ARDUINO UNTUK MENGHASILKAN SUARA
----
 Disini kami kelompok yang beranggotakan:
 1. Dena Yuda Alamsyah - 18111189
 2. Firman Muhamad Ikhsan - 18111197
